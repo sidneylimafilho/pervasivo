@@ -3,7 +3,6 @@
   "description": "Fast, unopinionated, minimalist utility framework",
   "version": "0.0.1",
   "author": "Sidney Lima Filho",
-  
   "license": "MIT",
   "main": "index.js"
 }
